@@ -17,6 +17,7 @@ MONGO_URL = 'mongodb+srv://user:1234@cluster0.koxvpai.mongodb.net/?retryWrites=t
 
 PORT = 1337
 
+Tambien debes tener en cuenta que ahora el proyecto cuenta tanto como con client como con server, por lo cual debes abrir dos terminales distintas y ejecutar el comando npm run dev en ambas carpetas.
 
 Y listo! deberias poder ver el programa en localhost:5173.
 Si no puedes ejecutar el codigo despues de esto, tal vez debas instalar npm o node.js. 
